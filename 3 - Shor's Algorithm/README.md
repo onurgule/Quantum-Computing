@@ -5,7 +5,7 @@ Shor Algoritması, kuantum bilgisayarlarda çok çok çok büyük sayıları kol
 Eğer kuantum bilgisayarları yeterince kullanışlı hale gelirse bugün çok iyi diye kullandığımız şifreleme yöntemleri güvenliği sağlayamayacak.
 Shor Algoritması, O(n!) olan uygulamayı O(n^2)'ye dönüştüren bir algoritmadır.
 
-#Örnek:
+# Örnek:
 RSA-768 şifreli bir metin nasıl çözülür?
 Normalde bu şifreli metni kırmak için klasik bir bilgisayarın 1500 yıl~ açık durması gerekmektedir ya da 1500 bilgisayarın 1 yıl~.
 
@@ -46,7 +46,7 @@ Bu asal çarpanlar ile metni çözümleyebiliyoruz.
 
 
 
-#Basitleştirilmiş Sayısal Örnek:
+# Basitleştirilmiş Sayısal Örnek:
 
 Şifreli metnimiz N = 15 olsun.
 
